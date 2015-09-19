@@ -14,7 +14,7 @@ lazy_static = "*"
 rand = "*"
 
 [dependencies.nickel]
-version = "^0.6"
+version = "^0.7"
 git = "https://github.com/nickel-org/nickel.rs"
 
 [dependencies.cookie]
